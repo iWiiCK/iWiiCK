@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 I am a 3rd Year Software Engineering undergraduate. Currently I am learning and trying out stuff with different languages, technologies and tools⚡.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iWiiCK)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 :star: **Languages** 
 - C++ | Java | JavFx | C# | HTML | CSS | SASS | Python | JavScript

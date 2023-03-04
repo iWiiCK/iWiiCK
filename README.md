@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a 3rd Year Software Engineering undergraduate. Currently I am learning and trying out stuff with different languages, technologies and tools⚡.
+I am a Final Year Software Engineering undergraduate. Currently I am learning and trying out stuff with different languages, technologies and tools⚡.
 
 ---
 :star: **Languages** 
@@ -26,7 +26,7 @@ I am a 3rd Year Software Engineering undergraduate. Currently I am learning and 
 
 ---
 :symbols: **Back-End Dev**
-- Node.js | Serverless-Framework | AWS Services
+- Node.js | MongoDB | Serverless-Framework | AWS Services
 
 ---
 :iphone: **Mobile Dev**

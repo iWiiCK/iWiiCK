@@ -18,7 +18,7 @@ I am a Final Year Software Engineering undergraduate. Currently I am learning an
 
 ---
 :star: **Languages** 
-- C++ | Java | JavFx | C# | HTML | CSS | SASS | Python | JavScript
+- C++ | Java | JavFx | C# | HTML | CSS | SASS | Python | JavaScript | Dafny
 
 ---
  :white_square_button: **Front-End Dev**

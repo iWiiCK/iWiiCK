@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Final Year Software Engineering undergraduate. Currently I am learning and trying out stuff with different languages, technologies and tools⚡.
-
 ---
 :star: **Languages** 
 - C++ | Java | JavFx | C# | HTML | CSS | SASS | Python | JavaScript | Dafny
